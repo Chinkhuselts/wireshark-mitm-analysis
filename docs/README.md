@@ -9,12 +9,12 @@
    - Visualizes attack patterns.
 
    ## Setup
-   See [SETUP.md](docs/SETUP.md) for installation and configuration.
+   See [SETUP.md](/SETUP.md) for installation and configuration.
 
    ![Packet Screenshots](media/)
 
    ## Report
-   Detailed analysis in [REPORT.md](docs/REPORT.md).
+   Detailed analysis in [REPORT.md](/REPORT.md).
 
    ## License
    MIT License
