@@ -1,5 +1,6 @@
    # Wireshark MitM Analysis Project Report
 
+
    ## Introduction
    This project simulates a Man-in-the-Middle (MitM) attack using ARP poisoning, captures traffic with Wireshark, and analyzes packets to identify malicious behavior, showcasing skills in packet analysis and network security.
 
