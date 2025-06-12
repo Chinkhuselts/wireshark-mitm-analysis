@@ -30,7 +30,7 @@
      ssh 192.168.227.93
 
    ## Analysis
-   - Filter in Wireshark: `arp`, `http`, or `ip.src == 192.168.227.164`.
+   - Filter in Wireshark: `arp`, `tcp.port==22`, or `ip.src == 192.168.227.164`.
    - Save capture: `mitm_capture.pcap`.
    - Export analysis: `mitm_analysis.txt`.
 
