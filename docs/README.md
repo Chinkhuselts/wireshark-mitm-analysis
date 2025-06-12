@@ -11,10 +11,7 @@
    ## Setup
    See [SETUP.md](docs/SETUP.md) for installation and configuration.
 
-   ## Demo
-   Watch the [demo video](https://youtube.com/your-video-link) showing the MitM attack and Wireshark analysis.
-
-   ![Packet Screenshot](media/packet_screenshot.png)
+   ![Packet Screenshots](media/)
 
    ## Report
    Detailed analysis in [REPORT.md](docs/REPORT.md).
